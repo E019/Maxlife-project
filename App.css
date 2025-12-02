@@ -1,0 +1,199 @@
+navbar {
+    background-color: rgb(242, 242, 242);
+}
+
+.navbar {
+    text-align: center;
+}
+
+h1 {
+    text-align: justify;
+}
+
+/* .Banner {
+    background-color: rgb(242, 242, 242);
+} */
+
+.col-lg-6 {
+    background-color: rgb(242, 242, 242);
+    width: auto;
+    height: auto;
+}
+
+.heading {
+    background-color: rgb(242, 242, 242);
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+}
+
+/* Filename - App.css */
+/* It containds the Form and Page Styling*/
+/* 
+body {
+    background: #f3f3f3;
+    text-align: center;
+} */
+
+.App {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+    transition: transform 0.2s;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: x-large;
+    text-align: center;
+    color: #327c35;
+}
+
+fieldset {
+    border: none;
+}
+
+input {
+    display: block;
+    width: 100%;
+    /* margin-bottom: 15px; */
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    display: inline;
+    width: 10%;
+}
+
+select {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+label {
+    font-size: 15px;
+    display: block;
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    text-align: left;
+    color: #555;
+    font-weight: bold;
+}
+
+button {
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: #4caf50;
+    width: 40%;
+    font-size: 16px;
+}
+
+textarea {
+    resize: none;
+    width: 98%;
+    min-height: 100px;
+    max-height: 150px;
+}
+
+
+
+.cont_form {
+    justify-content: center;
+}
+
+
+.cont_one {
+    border: 1px solid grey;
+    padding: 20px;
+}
+
+.cont_form_col {
+    display: flex;
+    gap: 8%;
+}
+
+.box2img {
+    width: 16px;
+    display: block;
+
+}
+
+.box1 {
+    border: 1px solid grey;
+    background-color: rgb(242, 242, 242);
+    margin-bottom: 10%;
+}
+
+.box2 {
+    border: 1px solid grey;
+    background-color: rgb(242, 242, 242);
+}
+
+.col-lg-7 {
+    background-color: rgb(242, 242, 242);
+}
+
+.navbar-nav .nav-link {
+    font-weight: 500;
+    color: #000 !important;
+    transition: color 0.2s ease, border-bottom 0.2s ease;
+}
+
+.navbar-nav .nav-link.active {
+    color: green !important;
+    border-bottom: 2px solid green;
+}
+
+.navbar-nav .nav-link:hover {
+    color: green !important;
+}
+
+.about_img {
+    width: 152px;
+}
+
+.img-2 {
+    align-items: center;
+}
+
+
+
+/* ////////////////////////////////////// login css /////////////////////// */
+
+
+
+.login-1 {
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdt2tO2Gqm6F1_4tJPkeJ0DpOBeu02z3CBg&s"); */
+    background-color: rgba(92, 82, 82, 0.616);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -2;
+    height: 700px;
+}
+
+
+
+
+#remember {
+    margin-top: 10px
+}
