@@ -1,7 +1,8 @@
 # 🌐 ReactJS Multipage Website
 
-A modern, responsive ReactJS website containing multiple pages and reusable components.  
-This project showcases frontend development skills including routing, UI building, and component architecture.
+This is a React JS project for a Cosmetic Bag e-commerce app.
+The project allows users to browse cosmetic products, login/sign-up, and interact with API data for dynamic product listings.
+It demonstrates React skills, API integration, routing, authentication, and responsive UI design.
 
 ---
 
@@ -17,6 +18,34 @@ This React application contains:
 ✔ Parent–Child Component Communication  
 ✔ Fully Responsive Layout  
 ✔ Clean & Structured Components  
+
+🌟 Key Features
+
+🔐 User Authentication: Login and Sign-up forms with validation
+
+🌐 API Integration: Fetch cosmetic product data dynamically
+
+🛍️ Product Browsing: View product lists and detailed pages
+
+📱 Responsive Design: Works on desktop, tablet, and mobile
+
+🔄 Navigation: Smooth page routing using React Router
+
+⚛️ Reusable Components: Clean and modular code structure
+
+🛠️ Tech Stack
+
+Frontend: React JS, HTML5, CSS3, JavaScript (ES6+)
+
+Routing: React Router DOM
+
+State Management: React Hooks / Context API
+
+API Handling: Axios / Fetch
+
+Authentication: Form validation for login/signup
+
+Deployment: Netlify / Vercel (optional)
 
 ## 📂 Folder Structure
 src/
